@@ -1,6 +1,6 @@
 var keyboardDivs = `
 	<div class=row>
-		<div class="key" id='Backquote'><span class="letter"></span></div>
+		<div class="key onepointfiveu"><span class="letter"></span></div>
 		<div class="key" id='Digit1'><span class="letter"></span></div>
 		<div class="key" id='Digit2'><span class="letter"></span></div>
 		<div class="key" id='Digit3'><span class="letter"></span></div>
@@ -11,9 +11,7 @@ var keyboardDivs = `
 		<div class="key" id='Digit8'><span class="letter"></span></div>
 		<div class="key" id='Digit9'><span class="letter"></span></div>
 		<div class="key" id='Digit0'><span class="letter"></span></div>
-		<div class="key" id='Minus'><span class="letter"></span></div>
-		<div class="key" id='Equal'><span class="letter"></span></div>
-		<div class="key twou" id='BackSpace'><span class="letter"></span></div>
+		<div class="key onepointfiveu"><span class="letter"></span></div>
 	</div>
 	<div class=row>
 		<div class="key onepointfiveu"><span class="letter"></span></div>
@@ -27,12 +25,10 @@ var keyboardDivs = `
 		<div class="key lvl5" id='KeyI'><span class="letter"></span></div>
 		<div class="key lvl5" id='KeyO'><span class="letter"></span></div>
 		<div class="key lvl5" id='KeyP'><span class="letter"></span></div>
-		<div class="key" id='BracketLeft'><span class="letter"></span></div>
-		<div class="key" id='BracketRight'><span class="letter"></span></div>
 		<div class="key onepointfiveu" id='Backslash'><span class="letter"></span></div>
 	</div>
 	<div class=row>
-		<div class="key onepointsevenfiveu"><span class="letter"></span></div>
+		<div class="key onepointfiveu"><span class="letter"></span></div>
 		<div class="key lvl1" id='KeyA'><span class="letter"></span></div>
 		<div class="key lvl1" id='KeyS'><span class="letter"></span></div>
 		<div class="key lvl1" id='KeyD'><span class="letter"></span></div>
@@ -43,11 +39,10 @@ var keyboardDivs = `
 		<div class="key lvl1" id='KeyK'><span class="letter"></span></div>
 		<div class="key lvl1" id='KeyL'><span class="letter"></span></div>
 		<div class="key lvl1" id='Semicolon'><span class="letter"></span></div>
-		<div class="key" id='Quote'><span class="letter"></span></div>
-		<div class="key twopointtwofiveu"><span class="letter"></span></div>
+		<div class="key onepointfiveu"><span class="letter"></span></div>
 	</div>
 	<div class=row>
-		<div class="key twopointtwofiveu"><span class="letter"></span></div>
+		<div class="key onepointfiveu"><span class="letter"></span></div>
 		<div class="key" id='KeyZ'><span class="letter"></span></div>
 		<div class="key lvl6" id='KeyX'><span class="letter"></span></div>
 		<div class="key lvl6" id='KeyC'><span class="letter"></span></div>
@@ -58,7 +53,7 @@ var keyboardDivs = `
 		<div class="key lvl5" id='Comma'><span class="letter"></span></div>
 		<div class="key lvl6" id='Period'><span class="letter"></span></div>
 		<div class="key lvl6" id='Slash'><span class="letter"></span></div>
-		<div class="key twopointsevenfiveu"><span class="letter"></span></div>
+		<div class="key onepointfiveu"><span class="letter"></span></div>
 	</div>
 	<div class=row>
 		<div class="key onepointtwofiveu"><span class="letter"></span></div>
