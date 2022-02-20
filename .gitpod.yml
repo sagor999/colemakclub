@@ -1,0 +1,5 @@
+ports:
+- port: 8000
+  onOpen: open-browser
+tasks:
+- command: python3 -m http.server
