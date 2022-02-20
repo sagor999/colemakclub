@@ -1,25 +1,12 @@
 var keyboardDivs = `
 	<div class=row>
 		<div class="key onepointfiveu"><span class="letter"></span></div>
-		<div class="key" id='Digit1'><span class="letter"></span></div>
-		<div class="key" id='Digit2'><span class="letter"></span></div>
-		<div class="key" id='Digit3'><span class="letter"></span></div>
-		<div class="key" id='Digit4'><span class="letter"></span></div>
-		<div class="key" id='Digit5'><span class="letter"></span></div>
-		<div class="key" id='Digit6'><span class="letter"></span></div>
-		<div class="key" id='Digit7'><span class="letter"></span></div>
-		<div class="key" id='Digit8'><span class="letter"></span></div>
-		<div class="key" id='Digit9'><span class="letter"></span></div>
-		<div class="key" id='Digit0'><span class="letter"></span></div>
-		<div class="key onepointfiveu"><span class="letter"></span></div>
-	</div>
-	<div class=row>
-		<div class="key onepointfiveu"><span class="letter"></span></div>
 		<div class="key" id='KeyQ'><span class="letter"></span></div>
 		<div class="key" id='KeyW'><span class="letter"></span></div>
 		<div class="key" id='KeyE'><span class="letter"></span></div>
 		<div class="key lvl3" id='KeyR'><span class="letter"></span></div>
 		<div class="key lvl3" id='KeyT'><span class="letter"></span></div>
+		<div class="key onepointfiveu"><span class="letter"></span></div>
 		<div class="key lvl3" id='KeyY'><span class="letter"></span></div>
 		<div class="key lvl3" id='KeyU'><span class="letter"></span></div>
 		<div class="key lvl5" id='KeyI'><span class="letter"></span></div>
@@ -34,6 +21,7 @@ var keyboardDivs = `
 		<div class="key lvl1" id='KeyD'><span class="letter"></span></div>
 		<div class="key lvl1 restingPosition" id='KeyF'><span class="letter"></span></div>
 		<div class="key lvl2" id='KeyG'><span class="letter"></span></div>
+		<div class="key onepointfiveu"><span class="letter"></span></div>
 		<div class="key lvl2" id='KeyH'><span class="letter"></span></div>
 		<div class="key lvl1 restingPosition" id='KeyJ'><span class="letter"></span></div>
 		<div class="key lvl1" id='KeyK'><span class="letter"></span></div>
@@ -48,22 +36,13 @@ var keyboardDivs = `
 		<div class="key lvl6" id='KeyC'><span class="letter"></span></div>
 		<div class="key lvl4" id='KeyV'><span class="letter"></span></div>
 		<div class="key lvl4" id='KeyB'><span class="letter"></span></div>
+		<div class="key onepointfiveu"><span class="letter"></span></div>
 		<div class="key lvl4" id='KeyN'><span class="letter"></span></div>
 		<div class="key lvl4" id='KeyM'><span class="letter"></span></div>
 		<div class="key lvl5" id='Comma'><span class="letter"></span></div>
 		<div class="key lvl6" id='Period'><span class="letter"></span></div>
 		<div class="key lvl6" id='Slash'><span class="letter"></span></div>
 		<div class="key onepointfiveu"><span class="letter"></span></div>
-	</div>
-	<div class=row>
-		<div class="key onepointtwofiveu"><span class="letter"></span></div>
-		<div class="key onepointtwofiveu"><span class="letter"></span></div>
-		<div class="key onepointtwofiveu"><span class="letter"></span></div>
-		<div class="key sixpointtwofiveu"><span class="letter"></span></div>
-		<div class="key onepointtwofiveu"><span class="letter"></span></div>
-		<div class="key onepointtwofiveu"><span class="letter"></span></div>
-		<div class="key onepointtwofiveu"><span class="letter"></span></div>
-		<div class="key onepointtwofiveu"><span class="letter"></span></div>
 	</div>
 `;
 
